@@ -1,0 +1,17 @@
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\obj\Debug\netcoreapp2.1\OrderManagementWebAPI.csprojAssemblyReference.cache
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\obj\Debug\netcoreapp2.1\OrderManagementWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\obj\Debug\netcoreapp2.1\OrderManagementWebAPI.RazorAssemblyInfo.cache
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\bin\Debug\netcoreapp2.1\OrderManagementWebAPI.deps.json
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\bin\Debug\netcoreapp2.1\OrderManagementWebAPI.runtimeconfig.json
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\bin\Debug\netcoreapp2.1\OrderManagementWebAPI.runtimeconfig.dev.json
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\bin\Debug\netcoreapp2.1\OrderManagementWebAPI.dll
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\bin\Debug\netcoreapp2.1\OrderManagementWebAPI.pdb
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\obj\Debug\netcoreapp2.1\OrderManagementWebAPI.RazorAssemblyInfo.cs
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\obj\Debug\netcoreapp2.1\OrderManagementWebAPI.AssemblyInfoInputs.cache
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\obj\Debug\netcoreapp2.1\OrderManagementWebAPI.AssemblyInfo.cs
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\obj\Debug\netcoreapp2.1\OrderManagementWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\obj\Debug\netcoreapp2.1\OrderManagementWebAPI.dll
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\obj\Debug\netcoreapp2.1\OrderManagementWebAPI.pdb
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\bin\Debug\netcoreapp2.1\DAL.dll
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\Users\SAURABH\source\repos\OrderManagementWebAPI\OrderManagementWebAPI\obj\Debug\netcoreapp2.1\OrderManagementWebAPI.csproj.CopyComplete

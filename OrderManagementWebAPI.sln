@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagementWebAPI", "OrderManagementWebAPI\OrderManagementWebAPI.csproj", "{2D29EE21-1BFB-4956-B2BF-A3F17777979F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{D61A3731-9F00-4CD5-923F-0D3952DFEA9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D29EE21-1BFB-4956-B2BF-A3F17777979F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D29EE21-1BFB-4956-B2BF-A3F17777979F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D29EE21-1BFB-4956-B2BF-A3F17777979F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D29EE21-1BFB-4956-B2BF-A3F17777979F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61A3731-9F00-4CD5-923F-0D3952DFEA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61A3731-9F00-4CD5-923F-0D3952DFEA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61A3731-9F00-4CD5-923F-0D3952DFEA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61A3731-9F00-4CD5-923F-0D3952DFEA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56AB5B3B-92C1-4A7E-B6E4-D2F679161210}
+	EndGlobalSection
+EndGlobal
